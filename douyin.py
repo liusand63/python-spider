@@ -49,6 +49,8 @@ class DouYin(object):
 
 	def get_download_url(self, video_url):
 		"""
+
+
 		获得视频播放地址
 		Parameters:
 			video_url：视频播放地址
